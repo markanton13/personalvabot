@@ -1,1 +1,2 @@
-# Add the validated installer SHA-256 checksum here before publishing the GitHub Release.
+092e0000f018dba40d19b246d1af3b33f517d34559db90a98c84ec96e6bf8828  PersonalVABot-Setup-0.3.12-Windows-Beta.exe
+24df02f52dbd23598e78676bd615ddb13280b98985d0f628049706d72ec17472  PersonalVABot-Automation-0.3.12-Windows-Beta-Source.zip
