@@ -1,0 +1,29 @@
+# Local and private data
+.env
+.env.*
+*.sqlite
+*.sqlite3
+*.db
+*.log
+backups/
+exports/
+runtime/
+data/
+node_modules/
+dist/
+out/
+release-build/
+
+# Credentials and secrets
+credentials/
+secrets/
+*.pem
+*.key
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/

@@ -1,0 +1,1 @@
+# Add the validated installer SHA-256 checksum here before publishing the GitHub Release.
